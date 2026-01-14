@@ -39,17 +39,3 @@ viridis – Color scales for better visual clarity
 📂 Dataset
 
 File name: daily_weather_2020-(1).csv
-
-Description: Daily weather observations including:
-
-Temperature (High & Low)
-
-Precipitation Intensity
-
-Wind Gust
-
-Humidity
-
-Latitude & Longitude
-
-Date/Time
